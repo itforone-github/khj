@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">아이칸</string>
+	<string name="kakao_app_key">f950916c6114a8186529b42242686394</string>
+	<string name="kakao_scheme">kakaof950916c6114a8186529b42242686394</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
